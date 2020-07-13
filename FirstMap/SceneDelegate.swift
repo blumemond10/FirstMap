@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  FirstMap
-//
-//  Created by Nラボ on 2020/07/07.
-//  Copyright © 2020 naokisakano. All rights reserved.
-//
 
 import UIKit
 
